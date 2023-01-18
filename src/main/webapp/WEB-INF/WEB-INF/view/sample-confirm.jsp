@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>	登録メニュー</title>
 </head>
 <body>
 	<p>下記の内容で登録します。よろしいですか？</p>
